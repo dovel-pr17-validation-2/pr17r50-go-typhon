@@ -4,12 +4,12 @@ go 1.24
 
 require (
 	github.com/fortytw2/leaktest v1.3.0
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.4
 	github.com/monzo/slog v0.0.0-20211123154010-52a5ddb2ba55
 	github.com/monzo/terrors v0.0.0-20230213115803-67faae2e06d7
 	github.com/stretchr/testify v1.8.1
 	golang.org/x/net v0.7.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.34.0
 )
 
 require (
